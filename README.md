@@ -1,4 +1,4 @@
-### Sunjung-Dev's GITHUB! 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=40&section=header&text=Sunjung-Dev's GITHUB!&fontSize=30)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFECF8&title_bg=%23F1F0F1&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
