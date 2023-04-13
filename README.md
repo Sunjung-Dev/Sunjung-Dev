@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunjung-Dev&show_icons=true&theme=dracula)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/sun17789)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun1789)](https://solved.ac/sun17789)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
