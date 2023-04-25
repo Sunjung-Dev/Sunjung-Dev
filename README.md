@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&lines=🐣+Sunjung-Dev's+GITHUB!+🐣&font=Redressed&size=40)](https://git.io/typing-svg)
 </br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFECF8&title_bg=%23F1F0F1&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![image](https://user-images.githubusercontent.com/76513889/234175937-f854b972-f8de-4bbb-8f09-2b15387f554d.png)
+![Elsa](https://user-images.githubusercontent.com/76513889/234179069-1832bf08-6207-47f2-b487-808c79027a0e.gif)
+
 
 
 👋🏻 I'm sunjung. I'm Junior Backend Developer.
