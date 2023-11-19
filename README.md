@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Serif&lines=🐣+Sunjung-Dev's+GITHUB!+🐣&pause=1000&color=F7A6EA&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Serif&pause=1000&color=F7A6EA&random=false&width=435&lines=🐣+Sunjung-Dev's+GITHUB!+🐣)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&lines=🐣+Sunjung-Dev's+GITHUB!+🐣&font=PT+Serif&size=40)](https://git.io/typing-svg)
 </br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFECF8&title_bg=%23F1F0F1&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 <p align="center">
