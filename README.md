@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=shark)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&lines=🐣+Sunjung-Dev's+GITHUB!+🐣&font=Redressed&size=40)](https://git.io/typing-svg)
 </br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFECF8&title_bg=%23F1F0F1&icon=&icon_color=%23F7F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
