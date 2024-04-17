@@ -3,26 +3,9 @@
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76513889/234179069-1832bf08-6207-47f2-b487-808c79027a0e.gif">
- </p>
-
-
-
-
-
-👋🏻 I'm sunjung. I'm Junior Backend Developer.
-</br>
-👩🏼‍💻 Studying for Backend Engineering </br>
-👩🏼‍💻 Interested in Cryptocurrency, AWS, architecture ,,, </br>
-❤️ I really really LOVE COMPUTER AND CAMERA </br> 
-❤️ If you want QnA, Plz contact me! </br>
-📫 How to reach me: sun17789@naver.com
-
-#### 🔨 Skills & Studying 🔨
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{Sunjung-Dev}"/>
+</a>
 
 
 <!--
